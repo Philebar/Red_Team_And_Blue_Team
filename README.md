@@ -3,6 +3,7 @@
 ### Table of Contents
 '''bash
 $ This document contains the following sections:
+'''
 1 Network Topology
 2 Red Team: Security Asssessement
 3 Blue Team: Log Analysis and Attack Characterizaition
