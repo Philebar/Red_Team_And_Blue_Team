@@ -5,7 +5,7 @@
 ### Table of Contents
 
 ```bash
-<strong> This document contains the following sections: </strong>
+### This document contains the following sections:
 
 01. Network Topology
 
