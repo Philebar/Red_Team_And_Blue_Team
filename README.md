@@ -5,7 +5,7 @@
 ### Table of Contents
 
 ```bash
-### This document contains the following sections:
+  This document contains the following sections:
 
 1. Network Topology
 
