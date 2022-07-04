@@ -5,8 +5,8 @@
 ### Table of Contents
 
 ```bash
-$ This document contains the following sections:
-```
+This document contains the following sections:
+
 1 Network Topology
 
 2 Red Team: Security Asssessement
@@ -14,6 +14,7 @@ $ This document contains the following sections:
 3 Blue Team: Log Analysis and Attack Characterizaition
 
 4 Hardening: Proposed Alarms and Mitigation Strategies
+```
 
 ![image](https://user-images.githubusercontent.com/91852641/177212256-b922a5da-1a6a-4146-b632-4e6b74fc34a9.png)
 
